@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gu0l1ngwei.github.io/hdr-demo/sitemap.xml
